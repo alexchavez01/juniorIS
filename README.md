@@ -18,8 +18,12 @@ Welcome to the repository of my personal portfolio website. This website is a dy
 
 ## Launch
 
-My portfolio website is live at `[insert the URL of your portfolio website here]`, where you can explore my work and learn more about my professional experiences and skills. If the live website is not working please refer to the second README.md file to view the webiste locally
+My portfolio website is live at `[insert the URL of your portfolio website here]`, where you can explore my work and learn more about my professional experiences and skills. If the live website is not working please refer to the second README2.md file to view the webiste locally.
 
 ## Purpose
 
 The primary goal of this website is to effectively communicate my skills and experiences to potential employers, clients, and colleagues in the industry. It serves as a digital footprint that encapsulates my personal and professional identity.
+
+## Trouble
+
+If you have any problems, please feel free to contact me.
