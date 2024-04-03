@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Alex's Portfolio Website
 
-## Getting Started
+Welcome to the repository of my personal portfolio website. This website is a dynamic and interactive showcase of my professional skills, projects, and experiences in the field of my computer science journey.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Interactive Design:** Utilizes modern web technologies to create engaging and responsive interactions for visitors.
+- **Dynamic Content:** Showcases a range of projects, including personal projects and class projects, with technical descriptions.
+- **About Me Section:** A personal introduction and providing insights into my career and skills.
+- **Portfolio Gallery:** A curated selection of my work, demonstrating my expertise and creative approach in my field.
+- **Contact Form:** An easy-to-use contact form for potential clients and employers to reach out to me directly.
+- **Responsive Layout:** Fully responsive design ensuring the website is accessible and visually appealing on all devices.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- HTML/CSS/JavaScript
+- React, Next.js
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Launch
 
-## Learn More
+My portfolio website is live at `[insert the URL of your portfolio website here]`, where you can explore my work and learn more about my professional experiences and skills. If the live website is not working please refer to the second README.md file to view the webiste locally
 
-To learn more about Next.js, take a look at the following resources:
+## Purpose
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The primary goal of this website is to effectively communicate my skills and experiences to potential employers, clients, and colleagues in the industry. It serves as a digital footprint that encapsulates my personal and professional identity.
