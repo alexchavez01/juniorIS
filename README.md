@@ -16,6 +16,7 @@ Welcome to the repository of my personal portfolio website. This website is a dy
 - HTML/CSS/JavaScript
 - React, Next.js
 
+
 ## Launch
 
 My portfolio website is live at `[insert the URL of your portfolio website here]`, where you can explore my work and learn more about my professional experiences and skills. If the live website is not working please refer to the second README2.md file to view the webiste locally.
@@ -23,6 +24,10 @@ My portfolio website is live at `[insert the URL of your portfolio website here]
 ## Purpose
 
 The primary goal of this website is to effectively communicate my skills and experiences to potential employers, clients, and colleagues in the industry. It serves as a digital footprint that encapsulates my personal and professional identity.
+
+## Code
+
+To view the code that I have created, please follow src/app then components. Each file in components is what I coded. And the file, pages.js, in src/app as well.
 
 ## Trouble
 
