@@ -11,7 +11,7 @@ const Contact = () => {
                     <h2 className='text-[40px] lg:text-[50px] text-white tracking-wide leading-none mb-12'> 
                         <AnimateText/>
                     </h2>
-                    <div className='socials flex flex-row justify-center gap-2'>
+                    <div className='socials flex flex-row justify-center gap-4'>
                         <Link href='https://github.com/alexchavez01'>
                             <img 
                                 className='h-[50px] w-[50px] inline-block'

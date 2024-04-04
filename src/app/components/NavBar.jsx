@@ -74,7 +74,7 @@ const NavBar = () => {
                     transition={{
                         duration: 0.2,
                     }}
-                    className="mobile-menu flex w-fit fixed top-10 inset-x-0 mx-auto border border-transparent dark:border-white/[0.2] rounded-full dark:bg-[#121212] bg-white shadow z-[5000] lg:pr-3 lg:pl-3 lg:py-3 md:p-3 items-center justify-center space-x-5 m"
+                    className="mobile-menu flex w-fit fixed top-10 inset-x-0 mx-auto border border-transparent dark:border-white/[0.2] rounded-full dark:bg-[#121212] bg-white shadow z-[5000] lg:pr-3 lg:pl-3 lg:py-3 md:p-4 items-center justify-center space-x-4 "
                 >
                     {navLinks.map((link, index) => (
                         <NavLinks key={index} href={link.path} title={link.title} />

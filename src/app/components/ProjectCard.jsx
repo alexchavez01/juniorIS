@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 const ProjectCard = ({src, title, description}) => {
   return (
-    <div className='relative overflow-hidden rounded-lg shadow border border-[#311c5a]'>
+    <div className='relative justify-center overflow-hidden rounded-lg shadow border border-[#311c5a]'>
 
         <Image
             src={src}

@@ -16,10 +16,9 @@ Welcome to the repository of my personal portfolio website. This website is a dy
 - HTML/CSS/JavaScript
 - React, Next.js
 
-
 ## Launch
 
-My portfolio website is live at `[insert the URL of your portfolio website here]`, where you can explore my work and learn more about my professional experiences and skills. If the live website is not working please refer to the second README2.md file to view the webiste locally.
+My portfolio website is live at `[https://alexchavez01.github.io/chavezalex.github.io/]`, where you can explore my work and learn more about my professional experiences and skills. If the live website is not working please refer to the second README2.md file to view the webiste locally.
 
 ## Purpose
 
