@@ -12,7 +12,7 @@ const Contact = () => {
             <div className='flex flex-col lg:flex-row justify-center items-center'> 
                 <div className='text-center'> 
                     <h2 className='text-[40px] lg:text-[50px] text-white tracking-wide leading-none mb-12'> 
-                        <AnimateText/> /{/*  Component that likely animates text content, details not shown. */} 
+                        <AnimateText/> {/*  Component that likely animates text content, details not shown. */} 
                     </h2>
                     <div className='socials flex flex-row justify-center gap-4'>
                         {/* // GitHub link with icon */}
