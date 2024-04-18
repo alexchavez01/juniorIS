@@ -36,7 +36,7 @@ const Procard = ({ src, title, description }) => {
           <CardItem
             translateZ={20}
             as={Link}
-            href=""
+            href="http://github.com/alexchavez01"
             target="__blank"
             className="px-4 py-3 rounded-xl text-xs font-bold text-white bg-transparent border border-white hover:bg-white hover:text-green-500 transition-colors duration-200"
           >
